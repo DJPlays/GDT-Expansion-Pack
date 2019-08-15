@@ -29,7 +29,7 @@
 		ExpPack.addEventCelebration();
 		ExpPack.addEventCuriosity();
 		ExpPack.addEventVac();
-		ExpPack.addEventBilly();
+		ExpPack.addEventSCREWYOURBILLY();
 		ExpPack.addEventMovieGame();
 		ExpPack.addEventFire();
 		ExpPack.addEventFirstMagazine();
